@@ -1,4 +1,4 @@
-IPS Suite v4.2.x & TeamSpeak v3.1.x
+IPS Suite v4.3.0 & TeamSpeak v3.1.x
 Integration & Single Sign-On
 
 FEATURES
